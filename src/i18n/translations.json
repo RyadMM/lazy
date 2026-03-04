@@ -14,6 +14,31 @@
       "copilot": {
         "title": "Copilot Context Engineering",
         "description": "Mastering GitHub Copilot context — From theory to practice."
+      },
+      "tabrename": {
+        "title": "Tab Rename",
+        "description": "An old school project from 2021 that I decided to update in 2025.",
+        "page": {
+          "title": "Tab Rename",
+          "subtitle": "A clean, minimal Chrome extension for renaming browser tabs",
+          "story": "An old school project from 2021 that I decided to update in 2025.",
+          "about": "Tab Rename is a clean and minimal Chrome extension that lets you rename your browser tabs with ease. It shows all your open tabs with their favicons, and you can inline-edit any title directly. Custom names are saved persistently across sessions, and you can reset them individually or all at once. Open it with Alt+R (Windows/Linux) or MacCtrl+R (Mac).",
+          "features": [
+            "Tab Listing - Shows all open tabs with favicons",
+            "Inline Editing - Click any tab title to edit directly",
+            "Persistent Storage - Custom titles saved across sessions",
+            "Reset Individual/All - Quick reset options",
+            "Keyboard Shortcut - Alt+R / MacCtrl+R to open",
+            "Auto Cleanup - Removes old entries after 24 hours",
+            "Toast Notifications - Visual feedback for all actions",
+            "Smart Error Handling - Gracefully handles edge cases",
+            "Hover Tooltips - See original title on hover"
+          ],
+          "cta": "View on GitHub",
+          "viewSource": "View source on GitHub",
+          "version": "Version 2.3.0",
+          "license": "GPL v3"
+        }
       }
     },
     "footer": {
@@ -131,6 +156,31 @@
       "copilot": {
         "title": "Copilot Context Engineering",
         "description": "Maîtriser le contexte GitHub Copilot — De la théorie à la pratique."
+      },
+      "tabrename": {
+        "title": "Tab Rename",
+        "description": "Un vieux projet de 2021 que j'ai décidé de mettre à jour en 2025.",
+        "page": {
+          "title": "Tab Rename",
+          "subtitle": "Une extension Chrome minimaliste pour renommer les onglets",
+          "story": "Un vieux projet de 2021 que j'ai décidé de mettre à jour en 2025.",
+          "about": "Tab Rename est une extension Chrome minimaliste qui vous permet de renommer vos onglets facilement. Elle affiche tous vos onglets ouverts avec leurs favicons, et vous pouvez éditer n'importe quel titre directement. Les noms personnalisés sont sauvegardés durablement entre les sessions, et vous pouvez les réinitialiser individuellement ou tous d'un coup. Ouvrez-la avec Alt+R (Windows/Linux) ou MacCtrl+R (Mac).",
+          "features": [
+            "Liste des onglets - Affiche tous les onglets ouverts avec favicons",
+            "Édition en ligne - Cliquez pour modifier directement",
+            "Stockage persistant - Titres personnalisés conservés",
+            "Réinitialisation - Reset individuel ou global",
+            "Raccourci clavier - Alt+R / MacCtrl+R pour ouvrir",
+            "Nettoyage auto - Supprime les anciennes entrées après 24h",
+            "Notifications - Feedback visuel pour chaque action",
+            "Gestion d'erreurs - Gère gracieusement les cas particuliers",
+            "Info-bulles - Voir le titre original au survol"
+          ],
+          "cta": "Voir sur GitHub",
+          "viewSource": "Voir le source sur GitHub",
+          "version": "Version 2.3.0",
+          "license": "GPL v3"
+        }
       }
     },
     "footer": {

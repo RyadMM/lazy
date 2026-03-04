@@ -24,6 +24,12 @@ const projects = [
     href: `/${lang}/copilot`,
     accent: 'indigo' as const,
   },
+  {
+    title: t.projects.tabrename.title,
+    description: t.projects.tabrename.description,
+    href: `/${lang}/tabrename`,
+    accent: 'indigo' as const,
+  },
 ]
 ---
 <PortfolioLayout title={`Ryad — ${t.hero.name}`} lang={lang}>
@@ -34,6 +40,7 @@ const projects = [
       <h2 class="text-sm uppercase tracking-widest text-muted mb-6 font-medium">
         {t.projects.title}
       </h2>
+
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         {projects.map(project => (
           <ProjectCard {...project} />

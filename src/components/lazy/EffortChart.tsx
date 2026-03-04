@@ -91,7 +91,7 @@ export default function EffortChart({ className = '' }: EffortChartProps) {
   }, [])
 
   return (
-    <div class={`chart-container ${className}`}>
+    <div className={`chart-container ${className}`}>
       <canvas ref={canvasRef} id="effortChart"></canvas>
     </div>
   )
